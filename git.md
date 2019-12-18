@@ -40,10 +40,20 @@
 
 - The green color of file name indicates that the file has been changed, but not yet committed
 
-# Undo commits
+## Undo commits
 
 - Checkout commit: show history committed code, read-only, not rewrite history
 
 - Revert commit: undo a commit, like it never existed
 
 - Reset commit: permanantly take you back in time at a particular commit
+
+## Branch
+
+- Allow creating different branches without messing up with the master branch
+
+#### How to merge the branches back to the master?
+
+- Go back to the branck you want to merge into
+
+- When merging, we won't make any changes to the master branch  
