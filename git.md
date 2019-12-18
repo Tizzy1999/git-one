@@ -57,3 +57,9 @@
 - Go back to the branck you want to merge into
 
 - When merging, we won't make any changes to the master branch  
+
+## Github
+
+- A service that lets us set up hosted repositories
+
+- Central online repository which multiple team-members could access
